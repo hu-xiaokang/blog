@@ -13,5 +13,5 @@ description:  搭建完github page，测试一下
 
 今天周四，是2019年感恩节
 
-![first](F:\github\blog\assets\img\1\thanking.jpg)
+![first](..\assets\img\1\thanking.jpg)
 
