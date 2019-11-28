@@ -1,12 +1,8 @@
 ---
 layout: post
-
 title:  "A Test"
-
 date:  2019-11-28 19:02:00
-
-img:  1/first.png
-
+img:  1/main.png
 description:  搭建完github page，测试一下
 ---
 
