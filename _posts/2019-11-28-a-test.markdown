@@ -1,0 +1,16 @@
+layout:post
+
+title: "A Test"
+
+date: 2017-11-28 19:02:00
+
+img: 1/first.png
+
+description: 搭建完github page，测试一下
+
+
+
+今天周四，是2019年感恩节
+
+![first](F:\github\blog\assets\img\1\thanking.jpg)
+
