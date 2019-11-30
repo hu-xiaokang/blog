@@ -442,7 +442,11 @@ description: 对找工作那段时间学习的一个总结，按照自己学习�
 **参考资料**：
 
 [https://github.com/jianghui-galaxy/Interview-Notebook](https://github.com/jianghui-galaxy/Interview-Notebook)
+
 https://github.com/jwasham/coding-interview-university
+
 《UNIX网络编程卷1：套接字联网API》
+
 《UNIX环境高级编程》
+
 《深入理解计算机系统》
