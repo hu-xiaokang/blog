@@ -209,7 +209,7 @@ description: 一些常用的算法
       return maxPath;
   }
   //表示移动的四个方向
-  private int[][] directs = {{0,1},{0,-1},{1,0},{-1,0}};
+  private int[][] directs = { {0,1}, {0,-1}, {1,0}, {-1,0} };
   private int backtracking(int[][] matrix,int[][] memo, 
                             int curRow,int curCol) {
       //该点的最大搜索路径长度已记录过
@@ -439,7 +439,7 @@ description: 一些常用的算法
       }
       return maxSize;
   }
-  private int[][] directs = {{1,0}, {-1,0}, {0,1}, {0, -1}};
+  private int[][] directs = { {1,0}, {-1,0}, {0,1}, {0, -1} };
   private int size = 0;
   private void dfs(int[][] grid, boolean[][] visited,
                    int curRow, int curCol) {
@@ -552,7 +552,7 @@ description: 一些常用的算法
       }
       int time = 0;
       //移动方向
-      int[][] directs = {{1,0},{-1,0},{0,1},{0,-1}};
+      int[][] directs = { {1,0}, {-1,0}, {0,1}, {0,-1} };
       while(!queue.isEmpty()) {
           int size = queue.size();
           boolean hasRotten = false;
