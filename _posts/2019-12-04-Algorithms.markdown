@@ -8,7 +8,7 @@ categories: algorithms
 tags: [algorithms]
 img: 5/main.jpg
 description: 一些常用的算法
-github:"https://github.com/"
+github: "https://github.com/"
 ---
 
 + Partition函数
