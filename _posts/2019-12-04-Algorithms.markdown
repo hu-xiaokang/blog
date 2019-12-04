@@ -1,9 +1,14 @@
 ---
 layout: post
 title:  "Algorithms"
-date:  2019-12-04 16:48:00
+date:  2019-12-04 16:48:00 +0800
+published: 2019-12-04 19:30:00 +0800
+comments: true
+categories: algorithms
+tags: [algorithms]
 img: 5/main.jpg
 description: 一些常用的算法
+github:"https://github.com/"
 ---
 
 + Partition函数
