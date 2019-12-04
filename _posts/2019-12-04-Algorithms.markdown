@@ -2,8 +2,8 @@
 layout: post
 title:  "Algorithms"
 date:  2019-12-04 16:48:00
-img:  5/main.jpg
-description:  一些常用的算法
+img: 5/main.jpg
+description: 一些常用的算法
 ---
 
 + Partition函数
@@ -167,7 +167,7 @@ description:  一些常用的算法
       return maxPath;
   }
   //表示移动的四个方向
-  private int[][] directs = {{0,1},{0,-1},{1,0},{-1,0}};
+  private int[][] directs = {{0,1}, {0,-1}, {1,0}, {-1,0}};
   private int maxPath = 1;
   private void backtracking(int[][] matrix, int curRow,int curCol,
                            int curLength) {
