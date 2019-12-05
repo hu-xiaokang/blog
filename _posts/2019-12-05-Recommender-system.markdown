@@ -197,7 +197,7 @@ description: 研一上学期IBM课程大作业
 
 Jaccard系数主要用于计算符号度量或布尔值度量的个体间的相似度，具体计算公式如下：
 
-![Jaccard Coefficient](../assets/img/6/jaccard- coefficient.png)
+![Jaccard Coefficient](../assets/img/6/jaccard-coefficient.png)
 
 ​       因为个体的特征属性都是由符号度量或者布尔值标识，因此无法衡量差异具 体值的大小，只能获得“是否相同”这个结果，所以Jaccard系数只关心个体间共同具有的特征是否一致这个问题。
 
