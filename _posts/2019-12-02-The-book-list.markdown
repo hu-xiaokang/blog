@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The book list"
-date:  2019-12-02 12:32:00
+date:  2019-12-02 12:32:00 +0800
 img:  4/main.jpg
 description:  记录一些自己看过或听说过计算机相关的书
 ---

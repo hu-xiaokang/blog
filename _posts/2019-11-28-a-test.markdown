@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A test"
-date:  2019-11-28 19:02:00
+date:  2019-11-28 19:02:00 +0800
 img:  1/main.jpg
 description:  搭建完github page，测试一下
 ---

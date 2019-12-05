@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Course outline"
-date:  2019-11-29 19:53:00
+date:  2019-11-29 19:53:00 +0800
 img:  2/main.jpg
 description:  对学习课程的整理，梳理自大学以来学习的一些总结。
 
