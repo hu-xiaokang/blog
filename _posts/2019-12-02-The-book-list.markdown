@@ -82,6 +82,7 @@ description:  记录一些自己看过或听说过计算机相关的书
   + 软件测试（Ron Patton著）
   + 黑客攻防技术宝典（第2版） : Web实战篇（ Dafydd Stuttard著）
   + Spring微服务实战（John Carnell著）
+  + Java数字图像处理编程技巧与应用实践
 + 其他
   + **数学之美**
   + 浪潮之巅
