@@ -1,13 +1,13 @@
 ---
-Layout:post
-Titile:"One Year Work"
-Date:2021-07-31 13:20:00 +0800
-Comments:true
-Categories:work
-Tags:[work]
-Img:8/main.jpg
-Description:工作一周年
-Github:"https://github.com/"
+layout: post
+titile: "One Year Work"
+Date: 2021-07-31 13:20:00 +0800
+comments: true
+categories: work
+tags: [work]
+img: 8/main.jpg
+description: 工作一周年
+github: "https://github.com/"
 ---
 
 # 前言
