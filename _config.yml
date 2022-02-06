@@ -1,6 +1,6 @@
 # Profile information
 name: Kane
-title: 个人学习
+title: 个人学习笔记
 description: > # this means to ignore newlines until "baseurl:"
  Stay hungry,Stay foolish
 permalink: ':title/'
