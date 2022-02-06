@@ -15,6 +15,7 @@ github: "https://github.com/"
 
 ## Focus
 > 脱敏处理
+
 - Category 
   - Rule
   - Manage(Invite-only/Prohibited/Block etc.)
@@ -48,6 +49,7 @@ github: "https://github.com/"
 
 # 其他
 > 学习、锻炼、娱乐、爱好
+
 ## 学习
 今年学习的时间很明显少于去年，看的书基本还是去年看过的，而且更多的是走马观花式地过一遍，并没有做深入的了解。
 ## 锻炼
